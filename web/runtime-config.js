@@ -1,0 +1,1 @@
+window.COLORTRACE_PUBLIC_DEMO = false;

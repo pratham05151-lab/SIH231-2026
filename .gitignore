@@ -1,0 +1,5 @@
+.colortrace-data/
+node_modules/
+dist/
+
+.vercel

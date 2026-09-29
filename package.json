@@ -1,0 +1,10 @@
+{
+  "name": "colortrace-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node web/server.mjs",
+    "build:public": "node scripts/build-public.mjs",
+    "test": "node --test web/server.test.mjs"
+  }
+}
